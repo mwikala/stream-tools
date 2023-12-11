@@ -1,0 +1,8 @@
+{
+    "clock": {
+        "format": "ddd DD, MMM YYYY hh:mm a"
+    },
+    "current-playing": {
+        "format": "%name% - %artist%"
+    }
+}

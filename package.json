@@ -1,0 +1,20 @@
+{
+  "name": "stream-tools",
+  "type": "module",
+  "engines": {
+    "node": ">=18.18.2"
+  },
+  "scripts": {
+    "start": "bun index.ts"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "spotify-node-applescript": "^1.1.1"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
